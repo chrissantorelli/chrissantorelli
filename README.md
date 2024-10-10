@@ -1,5 +1,5 @@
 ## :man_teacher: Christopher Santorelli
-**'Assistant Teaching Professor & PhD Student (Developer/Creator/AI for Learning Enthusiast)
+Assistant Teaching Professor & PhD Student (Developer/Creator/AI for Learning Enthusiast)
 
 <!--
 **chrissantorelli/chrissantorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
