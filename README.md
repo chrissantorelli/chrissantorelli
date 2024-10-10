@@ -1,4 +1,4 @@
-## Christopher Santorelli
+## :man_technologist: Christopher Santorelli
 **`Assistant Teaching Professor & PhD Student (Developer/Creator/AI for Learning Enthusiast)`**
 
 <!--
